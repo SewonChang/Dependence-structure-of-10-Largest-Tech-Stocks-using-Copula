@@ -16,3 +16,5 @@ Some key libraries used are the following:
 - "yfinance" allowed to retrieve historical data of stock prices
 - "scipy" allowed to perform tests such as KS tests and the fitting of distributions
 - "copulas.multivariate" which allows to fit the Gaussian Copula to the multivariate dataframe
+- "matplotlib.pyplot" to plot histograms
+- "seaborn" to visually compare correlation matrices through heatmaps (optional)
